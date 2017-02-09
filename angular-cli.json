@@ -19,7 +19,7 @@
       "mobile": false,
       "styles": [
         "styles.css",
-        "../node_modules/ng2-tree/src/styles.css"
+        "../node_modules/ng2-tree/styles.css"
       ],
       "scripts": [],
       "environments": {
