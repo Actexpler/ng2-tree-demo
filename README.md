@@ -1,4 +1,4 @@
-# Ng2TreeDemo
+# Ng2TreeDemo (THIS EXAMPLE IS OUTDATED AND DEPRECATED)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli).
 
